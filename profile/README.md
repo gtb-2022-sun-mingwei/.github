@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my Org
 
-<!--
+My name is Sun Mingwei
 
-**Here are some ideas to get you started:**
+I couldn't find a living photo, so this is me...
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img src="C:\Users\孙哥\AppData\Roaming\Typora\typora-user-images\image-20220127103605666.png" alt="image-20220127103605666" style="zoom: 33%;" />
+
+I like playing basketball, and Stephen Curry is my favorite player.
+
+Hope to **meet more friends** in Thoughtworks !
+
+
+
